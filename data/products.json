@@ -1,0 +1,27 @@
+[
+  {
+    "id": "outerwear",
+    "name": "Tactical jacket concept",
+    "description": "A structured layer with utility-inspired pockets. Ask about fabrics, fit and future availability."
+  },
+  {
+    "id": "pants",
+    "name": "Cargo trouser concept",
+    "description": "A relaxed technical silhouette with cargo pocket detailing. Custom inseam enquiries are welcome."
+  },
+  {
+    "id": "headwear",
+    "name": "Urban cap concept",
+    "description": "A minimalist cap ( unreleased  )"
+  },
+  {
+    "id": "accessories",
+    "name": "carry bag concept",
+    "description": "A compact carry concept for everyday essentials. Enquire about bulk and co-branding options."
+  },
+  {
+    "id": "vests",
+    "name": "Utility vest concept",
+    "description": "A layered streetwear vest with mesh panels, adjustable straps and utility pockets. Enquire about fit, styling and future availability."
+  }
+]
